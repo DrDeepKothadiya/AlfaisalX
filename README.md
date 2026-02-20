@@ -221,14 +221,14 @@ All three tasks are available as Colab notebooks for zero-setup online execution
 
 ---
 
-## Evaluation Summary
+## Implementation Summary
 
-| Criterion | Implementation |
-|-----------|---------------|
-| **Technical Implementation (35%)** | Complete pipelines for all 3 tasks; well-structured, modular, documented code with reproducible random seeds |
-| **Experimental Rigor (25%)** | Full metric suite (Accuracy, Precision, Recall, F1, AUC, Sensitivity, Specificity, Precision@k); threshold sweep; confusion matrix; t-SNE embedding visualisation |
-| **Research Thinking (20%)** | Failure case analysis for all tasks; discussion of resolution constraints, hallucination risk, class imbalance, and concrete improvement roadmap |
-| **Documentation & Reproducibility (20%)** | This README; task-specific markdown reports; working Colab notebooks; `requirements.txt`; pre-built FAISS index and embeddings provided |
+| Remark |
+|-----------|
+| Complete pipelines for all 3 tasks; well-structured, modular, documented code with reproducible random seeds |
+| Full metric suite (Accuracy, Precision, Recall, F1, AUC, Sensitivity, Specificity, Precision@k); threshold sweep; confusion matrix; t-SNE embedding visualisation |
+| Failure case analysis for all tasks; discussion of resolution constraints, hallucination risk, class imbalance, and concrete improvement roadmap |
+| This README; task-specific markdown reports; working Colab notebooks; `requirements.txt`; pre-built FAISS index and embeddings provided |
 
 ---
 
@@ -246,8 +246,4 @@ scikit-learn      matplotlib         Pillow
 
 ## Contact
 
-**Challenge organisers:**
-- Prof. Anis Koubaa — akoubaa@alfaisal.edu
-- Dr. Mohamed Bahloul — mbahloul@alfaisal.edu
-
-**Submission deadline:** February 22, 2026 · [Submission Form](https://docs.google.com/forms/d/1s9NHk9yt3c5xxSS83stFr8O8ZEYoLR8X_PBsY1-CBtI/edit)
+- Dr. Deep R Kothadiya — cothadiya.deep@gmail.com
