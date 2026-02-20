@@ -1,6 +1,4 @@
-# AI Medical Imaging Challenge — Postdoctoral Submission
-**AlfaisalX · MedX Research Unit · Alfaisal University**
-
+# AI Medical Imaging Challenge
 > End-to-end AI system for pneumonia detection, medical report generation, and semantic image retrieval using the PneumoniaMNIST dataset.
 
 ---
