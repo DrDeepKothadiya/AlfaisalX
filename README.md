@@ -131,7 +131,7 @@ See [`reports/task1_classification_report.md`](reports/task1_classification_repo
    # Or in Python: from huggingface_hub import login; login()
    ```
 
-> ⚠️ **Never commit your HF token to the repository.** Use environment variables or Colab Secrets.
+> ⚠️ **HF token not working.**
 
 ### Running
 
