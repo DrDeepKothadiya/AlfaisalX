@@ -47,8 +47,8 @@ repository/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/DrDeepKothadiya.git
+cd AlfaisalX
 ```
 
 ### 2. Set Up the Environment
