@@ -28,7 +28,4 @@ https://drive.google.com/drive/folders/15ztYLQiKj-L5cpfjJbRTp55h63So5lHE?usp=sha
 -   The GitHub preview issue is only related to the notebook metadata
     rendering.
 
-------------------------------------------------------------------------
 
-If you encounter any issues running the notebooks, feel free to open an
-issue in this repository.
